@@ -6,7 +6,7 @@ s.license  = 'MIT'
 s.summary  = 'A fast model framework in memory and in database'
 s.homepage = 'https://github.com/emsihyo/EHModel'
 s.author   = { 'emsihyo' => 'emsihyo@gmail.com' }
-s.source   = { :git => 'https://github.com/emsihyo/emsihyo.git',
+s.source   = { :git => 'https://github.com/emsihyo/EHModel.git',
 :tag => "#{s.version}" }
 
 s.description = 'single,synchronous and thread safety model in memory and in database,support json mapping,concise api to use.'
