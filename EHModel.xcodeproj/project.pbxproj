@@ -66,6 +66,9 @@
 		516504371DB5C4C700E69432 /* user.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = user.json; sourceTree = "<group>"; };
 		516504381DB5C4C700E69432 /* WMUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMUser.h; sourceTree = "<group>"; };
 		516504391DB5C4C700E69432 /* WMUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMUser.m; sourceTree = "<group>"; };
+		51B08AFD1DB6073C00E2832A /* EHModel.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EHModel.podspec; sourceTree = "<group>"; };
+		51B08AFF1DB6076400E2832A /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
+		51B08B001DB6076400E2832A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +149,9 @@
 		5165040C1DB5BCE700E69432 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				51B08AFF1DB6076400E2832A /* LICENSE */,
+				51B08B001DB6076400E2832A /* README.md */,
+				51B08AFD1DB6073C00E2832A /* EHModel.podspec */,
 				5165040D1DB5BCE700E69432 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -508,6 +514,7 @@
 				516504051DB5BC9F00E69432 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		5165041E1DB5BCE700E69432 /* Build configuration list for PBXNativeTarget "example" */ = {
 			isa = XCConfigurationList;
@@ -516,6 +523,7 @@
 				516504201DB5BCE700E69432 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
