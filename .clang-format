@@ -1,0 +1,93 @@
+BasedOnStyle: LLVM
+AccessModifierOffset: -4
+#AlignConsecutiveAssignments: false
+AlignEscapedNewlinesLeft: true
+AlignTrailingComments: true
+#AllowAllParametersOfDeclarationOnNextLine: false
+#BinPackArguments: true
+#BinPackParameters: true
+#BS_Attach BS_Linux BS_Mozilla BS_Stroustrup BS_Allman BS_GNU BS_WebKit BS_Custom
+BreakBeforeBraces: Attach
+BreakBeforeTernaryOperators: true
+ColumnLimit: 0
+CommentPragmas:  '^ IWYU pragma:'
+#ConstructorInitializerAllOnOneLineOrOnePerLine: false
+#ConstructorInitializerIndentWidth: 4
+#ContinuationIndentWidth: 4
+#IndentCaseLabels: true
+IndentWidth: 4
+#LK_None LK_Cpp LK_Java LK_JavaScript LK_Proto LK_TableGen
+Language: Cpp
+MaxEmptyLinesToKeep: 1
+ObjCBlockIndentWidth: 4
+ObjCSpaceAfterProperty: true
+ObjCSpaceBeforeProtocolList: true
+SortIncludes: true
+#SpaceAfterCStyleCast: true
+SpaceBeforeAssignmentOperators: true
+#LS_Cpp03 LS_Cpp11 LS_Auto
+Standard: Cpp11
+TabWidth: 4
+#UT_Never UT_ForIndentation UT_Always
+UseTab: Never
+#SBPO_Never SBPO_ControlStatements SBPO_Always
+SpaceBeforeParens: ControlStatements
+#SpacesInAngles: true
+#SpacesInCStyleCastParentheses: true
+#SpacesInContainerLiterals: true
+#SpacesInParentheses: true
+#SpacesInSquareBrackets: true
+
+#BAS_Align BAS_DontAlign BAS_AlwaysBreak
+#AlignAfterOpenBracket: Align
+#AlignConsecutiveDeclarations: false
+#AlignOperands: true
+#AllowShortBlocksOnASingleLine: true
+#AllowShortCaseLabelsOnASingleLine: true
+#AllowShortFunctionsOnASingleLine: true
+#AllowShortIfStatementsOnASingleLine: true
+#AllowShortLoopsOnASingleLine: true
+#DRTBS_None DRTBS_All DRTBS_TopLevel
+#AlwaysBreakAfterDefinitionReturnType: All
+#RTBS_None RTBS_All RTBS_TopLevel RTBS_AllDefinitions RTBS_TopLevelDefinitions
+#AlwaysBreakAfterReturnType: All
+#AlwaysBreakBeforeMultilineStrings: true
+#AlwaysBreakTemplateDeclarations: true
+#BraceWrapping :
+#BreakAfterJavaFieldAnnotations: true
+#BOS_None BOS_NonAssignment BOS_All
+#BreakBeforeBinaryOperators: All
+#BreakConstructorInitializersBeforeComma: true
+#BreakStringLiterals: false
+#DerivePointerAlignment: true
+#DisableFormat: true
+#ExperimentalAutoDetectBinPacking: true
+#DerivePointerBinding: false
+#Cpp11BracedListStyle: true
+#IndentWrappedFunctionNames: true
+#IndentFunctionDeclarationAfterType: true
+#JSQS_Leave JSQS_Single JSQS_Double
+#JavaScriptQuotes: Single
+#KeepEmptyLinesAtTheStartOfBlocks: true
+#MacroBlockBegin:
+#MacroBlockEnd:
+#NI_None NI_Inner NI_All
+#NamespaceIndentation: None
+#PenaltyBreakBeforeFirstCallParameter: 19
+#PenaltyBreakComment: 300
+#PenaltyBreakFirstLessLess: 120
+#PenaltyBreakString: 1000
+#PenaltyExcessCharacter: 1000000
+#PenaltyReturnTypeOnItsOwnLine: 60
+#PAS_Left PAS_Right PAS_Middle
+#PointerAlignment: Left
+#ReflowComments: true
+#SpaceAfterTemplateKeyword: true
+#PointerBindsToType: 100
+#SpaceInEmptyParentheses: true
+#SpacesBeforeTrailingComments:1
+
+
+
+
+
