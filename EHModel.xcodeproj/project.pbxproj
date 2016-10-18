@@ -66,9 +66,9 @@
 		516504371DB5C4C700E69432 /* user.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = user.json; sourceTree = "<group>"; };
 		516504381DB5C4C700E69432 /* WMUser.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WMUser.h; sourceTree = "<group>"; };
 		516504391DB5C4C700E69432 /* WMUser.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WMUser.m; sourceTree = "<group>"; };
-		51B08AFD1DB6073C00E2832A /* EHModel.podspec */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = EHModel.podspec; sourceTree = "<group>"; };
-		51B08AFF1DB6076400E2832A /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
-		51B08B001DB6076400E2832A /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
+		51966FA41DB61C29004EB76F /* EHModel.podspec */ = {isa = PBXFileReference; lastKnownFileType = text; path = EHModel.podspec; sourceTree = SOURCE_ROOT; };
+		51966FA51DB61C29004EB76F /* LICENSE */ = {isa = PBXFileReference; lastKnownFileType = text; path = LICENSE; sourceTree = SOURCE_ROOT; };
+		51966FA61DB61C29004EB76F /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -149,9 +149,9 @@
 		5165040C1DB5BCE700E69432 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				51B08AFF1DB6076400E2832A /* LICENSE */,
-				51B08B001DB6076400E2832A /* README.md */,
-				51B08AFD1DB6073C00E2832A /* EHModel.podspec */,
+				51966FA41DB61C29004EB76F /* EHModel.podspec */,
+				51966FA51DB61C29004EB76F /* LICENSE */,
+				51966FA61DB61C29004EB76F /* README.md */,
 				5165040D1DB5BCE700E69432 /* main.m */,
 			);
 			name = "Supporting Files";
