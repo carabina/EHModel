@@ -15,7 +15,7 @@ s.requires_arc   = true
 s.platform     = :ios
 s.ios.deployment_target = '7.0'
 
-s.source_files = 'OOModel/*.{h,m}'
+s.source_files = 'EHModel/*.{h,m}'
 s.libraries = 'sqlite3'
  s.xcconfig = {
       'CLANG_ALLOW_NON_MODULAR_INCLUDES_IN_FRAMEWORK_MODULES' => 'YES'
