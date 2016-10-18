@@ -4,7 +4,7 @@ s.name     = 'EHModel'
 s.version  = '0.0.1'
 s.license  = 'MIT'
 s.summary  = 'A fast model framework in memory and in database'
-s.homepage = 'https://github.com/emsihyo/emsihyo'
+s.homepage = 'https://github.com/emsihyo/EHModel'
 s.author   = { 'emsihyo' => 'emsihyo@gmail.com' }
 s.source   = { :git => 'https://github.com/emsihyo/emsihyo.git',
 :tag => "#{s.version}" }
